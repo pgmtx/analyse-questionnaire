@@ -1,0 +1,9 @@
+Question : Do you take measures to protect your data when you connect to your LMS? If so, which ones?
+
+- No
+- VPN
+- no
+- I refuse all cookies, as with every other websites
+- No 
+- VPN, fake mac address
+- NO
